@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hey, I'm Kartikey Sharma 👋
 
@@ -41,7 +41,7 @@ I build web applications and explore how LLMs can power useful products.
 ### 📊 GitHub at a Glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kartikey349&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kartikey349&show_icons=true&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats including private contributions" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey349&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
