@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """<div align="center">
+ <div align="center">
 
 # Hey, I'm Kartikey Sharma 👋
 
@@ -40,6 +38,23 @@ I build web applications and explore how LLMs can power useful products.
 
 ---
 
+### 📊 GitHub at a Glance
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kartikey349&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey349&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey349&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kartikey349&theme=github" alt="GitHub contribution summary" />
+</p>
+
+---
+
 ### 🌐 Find Me Online
 
 - **Portfolio:** [kartikey-xo.vercel.app](https://kartikey-xo.vercel.app/)
@@ -53,8 +68,3 @@ I build web applications and explore how LLMs can power useful products.
 *Learning consistently. Building thoughtfully. Improving every day.*
 
 </div>
-"""
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created complete README at {path}")
