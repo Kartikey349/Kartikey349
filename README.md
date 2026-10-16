@@ -1,70 +1,88 @@
 <div align="center">
 
-# Hey, I'm Kartikey Sharma 👋
+# Kartikey Sharma
 
-### Full Stack Developer · Exploring AI Engineering
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;Building+AI-powered+Applications" alt="Typing SVG" />
+</a>
 
-I build web applications and explore how LLMs can power useful products.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://kartikey-xo.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-sharma-a7b336381/)
-[![GitHub](https://img.shields.io/badge/GitHub-Kartikey349-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kartikey349)
+[Portfolio](https://kartikey-xo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kartikey-sharma-a7b336381/) · [GitHub](https://github.com/Kartikey349)
 
 </div>
 
 ---
 
-### 🧰 Tech Stack
+## About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,redis,redux,docker,git,github,postman" alt="Tech stack icons" />
-</p>
+```javascript
+const kartikey = {
+  focus: [
+    "Full-Stack Development",
+    "LLM Applications",
+    "AI Agents"
+  ],
+  currentlyLearning: [
+    "RAG",
+    "LangChain",
+    "LangGraph",
+    "Tool Calling"
+  ],
+  principle: "Learn by building. Keep improving."
+};
+```
 
-### 🤖 Currently Exploring
+## Stack
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI agents and tool calling
-- LangChain and LangGraph
-- Building AI-powered full-stack applications
+**AI / ML**
 
-### 🛠️ Tools & Technologies
+`Python` `LLMs` `Prompt Engineering` `RAG` `Vector Embeddings` `Groq` `Qdrant` `NumPy` `Pandas` `PyTorch (Basic)`
 
-![Groq](https://img.shields.io/badge/Groq-LLM_API-F55036?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=flat-square)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-C5F74F?style=flat-square)
-![Clerk](https://img.shields.io/badge/Clerk-Authentication-6C47FF?style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white)
+**Backend**
 
----
+`Node.js` `Express` `FastAPI` `REST APIs` `WebSockets` `Socket.IO` `JWT`
 
-### 📊 GitHub at a Glance
+**Data**
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kartikey349&show_icons=true&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats including private contributions" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey349&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+`PostgreSQL` `MongoDB` `Redis` `Drizzle ORM` `Mongoose` `SQLAlchemy`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey349&hide_border=true" alt="GitHub contribution streak" />
-</p>
+**Frontend**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kartikey349&theme=github" alt="GitHub contribution summary" />
-</p>
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Redux`
 
----
+**Tools**
 
-### 🌐 Find Me Online
-
-- **Portfolio:** [kartikey-xo.vercel.app](https://kartikey-xo.vercel.app/)
-- **LinkedIn:** [Kartikey Sharma](https://www.linkedin.com/in/kartikey-sharma-a7b336381/)
-- **GitHub:** [@Kartikey349](https://github.com/Kartikey349)
+`Git` `GitHub` `Docker` `Postman` `VS Code` `Clerk`
 
 ---
+
+## Contributions & Streaks
 
 <div align="center">
 
-*Learning consistently. Building thoughtfully. Improving every day.*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey349&hide_border=true&theme=dark" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kartikey349&theme=github_dark" alt="GitHub contribution activity summary" />
+
+<br/>
+
+[![View Contributions](https://img.shields.io/badge/View-All_Contributions-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kartikey349)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-808080?style=for-the-badge&logo=vercel&logoColor=white)](https://kartikey-xo.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-sharma-a7b336381/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kartikey349)
+
+<br/>
+
+*Ship thoughtfully. Learn continuously.*
 
 </div>
